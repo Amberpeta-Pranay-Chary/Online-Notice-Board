@@ -1,0 +1,23 @@
+#header{
+  background: #555565;
+  color:white;
+  padding: 30px;
+  text-align: center;
+}
+#login_form{
+  padding:75px;
+}
+#left_sidebar{
+  border-right: 2px solid black;
+}
+.bi{
+background-image: url('../Image/mlrit.jpeg');
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: 100% 100%;
+}
+.large
+{
+  font-size: 40px;
+  color: black;
+}
